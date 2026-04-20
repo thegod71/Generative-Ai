@@ -12,7 +12,10 @@
   "description": "",
   "dependencies": {
     "@tavily/core": "^0.7.2",
+    "cors": "^2.8.6",
     "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "node-cache": "^5.1.2",
     "openai": "^6.34.0"
   }
 }
